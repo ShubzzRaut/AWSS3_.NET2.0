@@ -1,0 +1,12 @@
+1)WE NEED TO INSTALL AWS CLI 
+  TO INSTALL - 
+  DOWNLOAD LINK - https://docs.aws.amazon.com/cli/v1/userguide/install-windows.html
+
+  SELECT OPTION - AWS CLI MSI installer for Windows (32-bit):
+
+
+2) No need to install AWSSDK and other packages for this code
+  because we can do that by using command line 
+
+
+3)All the require file- LogAWS AND AWSCLI present in a project location
