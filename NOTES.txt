@@ -1,3 +1,5 @@
+****** INFORMATION ********
+
 1)WE NEED TO INSTALL AWS CLI 
   TO INSTALL - 
   DOWNLOAD LINK - https://docs.aws.amazon.com/cli/v1/userguide/install-windows.html
@@ -10,3 +12,24 @@
 
 
 3)All the require file- LogAWS AND AWSCLI present in a project location
+
+email id/password -  oksoftware01@gmail.com/Zebronics@40919
+
+
+
+ARGUMENTS - 
+1) drive (only file path for log file without file name)
+2) s3KeyName (only Name of file which we have to upload)
+3) awsAccessKey(aws - IAM - users -(here we get))
+4) awsSecretKey(aws - IAM - users -(here we get))
+5) awsRegion( near bucket name)
+6) localFilePath (full path with file name which we have to upload)
+7) s3BucketName(create bucket - give name )
+
+
+
+
+ARGUMENTS PASS - 
+
+E:\testingaws\ TESTING24.zip AKIA4MTWGSR4NXB7XHQ3 AgRNuU08I8bQBHNJNZ3p6+z6FJ2uumy6OjgimupM ap-south-1 E:\testingaws\TESTING24.zip mydatabackup1 3
+
