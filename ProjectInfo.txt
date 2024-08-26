@@ -13,15 +13,23 @@
 
 3)All the require file- LogAWS AND AWSCLI present in a project location
 
+<<<<<<< HEAD
+=======
 email id/password -  oksoftware01@gmail.com/Zebronics@40919
+>>>>>>> 4a591aa07b710aff3a307ab5780345451072021b
 
 
 
 ARGUMENTS - 
 1) drive (only file path for log file without file name)
 2) s3KeyName (only Name of file which we have to upload)
+<<<<<<< HEAD
+3) awsAccessKey(aws - IAM - users -(here we get) once created can not be seen)
+4) awsSecretKey(aws - IAM - users -(here we get) once created can not be seen)
+=======
 3) awsAccessKey(aws - IAM - users -(here we get))
 4) awsSecretKey(aws - IAM - users -(here we get))
+>>>>>>> 4a591aa07b710aff3a307ab5780345451072021b
 5) awsRegion( near bucket name)
 6) localFilePath (full path with file name which we have to upload)
 7) s3BucketName(create bucket - give name )
@@ -31,5 +39,28 @@ ARGUMENTS -
 
 ARGUMENTS PASS - 
 
+<<<<<<< HEAD
+E:\testingaws\ TESTING28.zip AKIA4MTWGSR4NXB7XHQ3 AgRNuU08I8bQBHNJNZ3p6+z6FJ2uumy6OjgimupM ap-south-1 E:\testingaws\TESTING28.zip mydatabackup1 3 "c/program files (x86)/amazon/awscli/bin/aws.exe"
+
+
+
+
+
+4) WORK TO USE IT IN OTHER DESKTOP/COMPUTER
+
+ - DOWNLOAD BY ABOVE LINK / EXTRACT AVAILABLE ZIP
+ - INSTALL AWS CLI IN COMPUTER (Default location - c/program files (x86)/amazon/awscli/bin/aws.exe)
+ - open cmd 
+ - curser must be in c drive / c:>
+ - write command - aws --version (to check it is installed or not) aws-cli/1.34.5 python/3.8.10 windows/10 botocore/1.35.5
+ - c:> aws configure -
+ 
+   AWS Access Key ID: YOUR_ACCESS_KEY_ID
+   AWS Secret Access Key: YOUR_SECRET_ACCESS_KEY
+   Region: ap-south-1
+   Output Format: json
+   Session Token (Optional): YOUR_SESSION_TOKEN
+=======
 E:\testingaws\ TESTING24.zip AKIA4MTWGSR4NXB7XHQ3 AgRNuU08I8bQBHNJNZ3p6+z6FJ2uumy6OjgimupM ap-south-1 E:\testingaws\TESTING24.zip mydatabackup1 3
+>>>>>>> 4a591aa07b710aff3a307ab5780345451072021b
 
